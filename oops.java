@@ -1,14 +1,13 @@
-#include <stdio.h>
+public class Oops {
+    public static void main(String[] args) {
 
-int main()
-{
-    printf(" *****   *****   *****   ***** \n");
-    printf("*     * *     * *     * *     *\n");
-    printf("*     * *     * *     * *      \n");
-    printf("*     * *     * *****    ***** \n");
-    printf("*     * *     * *              *\n");
-    printf("*     * *     * *        *     *\n");
-    printf(" *****   *****  *         ***** \n");
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *     *");
+        System.out.println("*     * *     * *     * *      ");
+        System.out.println("*     * *     * *****    ***** ");
+        System.out.println("*     * *     * *              *");
+        System.out.println("*     * *     * *        *     *");
+        System.out.println(" *****   *****  *         ***** ");
 
-    return 0;
+    }
 }
